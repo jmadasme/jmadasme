@@ -10,7 +10,7 @@ He desarrollados soluciones tales como:
 - Maquina seleciona de productos salmoneros.
 - Sistema de seguridad para vehiculos.
 - Sistema de enrrolamiento y detecccion facial.
-- Totem de auto atencion , presente en cines, tiendas por departamento, mineria y casinos.
+- Totem de auto atencion presente en cines, tiendas por departamento, mineria y casinos.
 - Plaforma IoT propia.
 - Siste telemetria para la gran mineria.
 - Sistema de atencion y turnos.
