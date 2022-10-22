@@ -1,5 +1,5 @@
 Perfil:  
-Soy un desarrollador de soluciones de software y hardware , combino mi tiempo por tres actividades.
+Soy un desarrollador de soluciones de software y hardware.
 
   >*Por una parte el ser instructor de materias como programación **Lenguaje C**, **Arduino**, **Pascal**, **C#**, **Microchips**, **IoT** , **Domótica** y **sistemas embebidos**.*
 
