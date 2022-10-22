@@ -14,6 +14,13 @@ He desarrollados soluciones tales como:
 - Plaforma IoT propia.
 - Siste telemetria para la gran mineria.
 - Sistema de atencion y turnos.
+- Academia de cursos tecnicos.
+
+En la actualidad:
+
+- Generacion hidrogeno escala domiciliaria.
+- Segidor solar bajo perfil.
+- Maquina expendedora liquidos.
 
 
 [Pergaminos](https://drive.google.com/drive/folders/1Nla8_eYAxM96T-W4cR5ifOVbdbFjsllW?usp=sharing)
