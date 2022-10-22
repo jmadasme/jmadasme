@@ -3,7 +3,7 @@ Soy un desarrollador de soluciones de software y hardware , combino mi tiempo po
 
   >*Por una parte el ser instructor de materias como programación **Lenguaje C**, **Arduino**, **Pascal**, **C#**, **Microchips**, **IoT** , **Domótica** y **sistemas embebidos**.*
 
- >*Por otra parte, mi hobby y en algunas ocasiones fuentes de charlas y Soy un desarrollador de soluciones de software y hardware , combino mi tiempo por tres actividades.*
+ >*Mi hobbys son ajedrez, montañismo, ping pong, tenis, motosiclismo, parapente, rafting, escalada, astronomia, clases y charlas de difucion tecnica.
 
  De forma paralela , mi hobby y en algunas ocasiones fuentes de charlas y workshop,  son las experiencias en **hacking ético** y formativo.
 
