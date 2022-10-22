@@ -5,6 +5,8 @@ Soy un desarrollador de soluciones de software y hardware.
 
  >*Mi hobbys son ajedrez, montañismo, ping pong, tenis, motosiclismo, parapente, rafting, escalada, astronomia, clases y charlas de difucion tecnica.
 
+He desarrollados soluciones tales como:
+
 - adasd
 - asdasd
 - asdasd
