@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<!--
+
 ##Perfil   
 Soy un desarrollador de soluciones de software y hardware , combino mi tiempo por tres actividades.
 
@@ -26,4 +26,4 @@ Soy un desarrollador de soluciones de software y hardware , combino mi tiempo po
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
