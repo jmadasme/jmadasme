@@ -5,7 +5,7 @@ Soy un desarrollador de soluciones de software y hardware , combino mi tiempo po
 
  >*Mi hobbys son ajedrez, montañismo, ping pong, tenis, motosiclismo, parapente, rafting, escalada, astronomia, clases y charlas de difucion tecnica.
 
-    La creación de sistemas de tótem a **auto-atención**, que en Chile se encuentra en casinos, supermercados cines y cadenas de _retail_. Me significan el grueso de mi dia, restando solo de mencionar las  asesorías y contribuciones a **proyectos de innovación** y **charlas motivaciones**, como eventos dedicados a instituciones de formación y tiendas de productos electrónicos para sus clientes
+    >La creación de sistemas de tótem a **auto-atención**, que en Chile se encuentra en casinos, supermercados cines y cadenas de _retail_. Me significan el grueso de mi dia, restando solo de mencionar las  asesorías y contribuciones a **proyectos de innovación** y **charlas motivaciones**, como eventos dedicados a instituciones de formación y tiendas de productos electrónicos para sus clientes
  workshop,  son las experiencias en hacking ético y formativo.
 
 
