@@ -7,10 +7,13 @@ Soy un desarrollador de soluciones de software y hardware.
 
 He desarrollados soluciones tales como:
 
-- adasd
-- asdasd
-- asdasd
-- adsasdasd
+- Maquina seleciona de productos salmoneros.
+- Sistema de seguridad para vehiculos.
+- Sistema de enrrolamiento y detecccion facial.
+- Totem de auto atencion , presente en cines, tiendas por departamento, mineria y casinos.
+- Plaforma IoT propia.
+- Siste telemetria para la gran mineria.
+- Sistema de atencion y turnos.
 
 
 [Pergaminos](https://drive.google.com/drive/folders/1Nla8_eYAxM96T-W4cR5ifOVbdbFjsllW?usp=sharing)
