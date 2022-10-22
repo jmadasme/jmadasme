@@ -1,6 +1,3 @@
-### Hi there 👋
-
-
 #Perfil   
 Soy un desarrollador de soluciones de software y hardware , combino mi tiempo por tres actividades.
 
