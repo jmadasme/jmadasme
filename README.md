@@ -38,5 +38,4 @@ Generación de hidrógeno a escala domiciliaria
 Seguidor solar de bajo perfil
 Máquina expendedora de líquidos
 
-[Pergaminos](https://drive.google.com/drive/folders/1Nla8_eYAxM96T-W4cR5ifOVbdbFjsllW?usp=sharing)
 
